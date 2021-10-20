@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Mừng ngày Phụ nữ Việt Nam 20/10",
-    introTitle: 'Thân gửi các bạn nữ A3',
-    introDesc: `abc
-    abc
-   abc
-abc`,
+    titleWeb: "Mừng ngày Phụ nữ Việt Nam",
+    introTitle: 'thân gửi các bạn nữ A3',
+    introDesc: `dù ngày hôm nay chỉ còn một xíu...
+    một mẩu có khi chừng ba mươi phút thôi...
+    nhưng nếu đó là một mẩu tốt lành
+    thì hẳn ngày hôm nay vẫn là một ngày tốt đẹp`,
     btnIntro: '^^HiHi^^',
-    title: 'hãy có một ngày 20/10 thật vui vẻ và hạnh phúc bên người thân nhá 🥰',
+    title: 'hãy chắc chắn rằng hôm nay là một ngày vui vẻ nhé?',
     desc: 'omke khum? trả lời.',
     btnYes: 'Nhất định <33',
     btnNo: 'Không nha :3',
-    question: 'tuy khum còn gặp nhau nữa nhưng liệu có bao giờ các cậu nhớ về nhau',
+    question: 'tuy khum còn gặp nhau nữa nhưng liệu có bao giờ các cậu nhớ về nhau?',
     btnReply: 'send anw',
     reply: '... chắc là có đó <3',
-    mess: 'Mình biết chắc chắn đó là lời từ đáy lòng mà không hề ép buộc mà 🥰',
-    messDesc: 'Tui phát ny cho các bạn nè',
-    btnAccept: 'Nhận ny',
-    messLink: 'https://www.facebook.com/vietanh1202' //link mess của các bạn. VD: https://HWC gi do
+    mess: 'yess mình biết chắc đó là lời từ đáy lòng chứ không hề ép buộc mà 🥰',
+    messDesc: 'truyền thuyết kể rằng nếu bạn cố nhớ thứ gì thì nó sẽ hiện ra ngay trước mắt ',
+    btnAccept: '?',
+    messLink: 'https://www.facebook.com/groups/165563590670218/posts/343033039589938/' //link mess của các bạn. VD: https://HWC gi do
 }
