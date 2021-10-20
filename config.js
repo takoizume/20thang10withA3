@@ -14,7 +14,7 @@ abc`,
     btnReply: '(minh bi ep phai gui)',
     reply: 'Mình rất iu HWC <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 8h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://HWC gi do
+    messDesc: 'Muốn phát ny khum?',
+    btnAccept: '...',
+    messLink: 'https://www.facebook.com/HUSerWisdomCosmos' //link mess của các bạn. VD: https://HWC gi do
 }
